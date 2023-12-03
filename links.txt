@@ -1,0 +1,14 @@
+google.com stonybrook.edu
+google.com cnn.com
+google.com facebook.com
+google.com youtube.com
+google.com wikipedia.org
+google.com stackoverflow.com
+stonybrook.edu google.com
+stonybrook.edu cnn.com
+cnn.com facebook.com
+facebook.com google.com
+facebook.com cnn.com
+facebook.com youtube.com
+youtube.com facebook.com
+stackoverflow.com wikipedia.org
